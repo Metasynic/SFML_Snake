@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1455546836 source:/home/sam/code/C++/Snake/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<array>
+	<chrono>
+	<thread>
+
